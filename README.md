@@ -2,6 +2,9 @@
 
 Devfolio is a personal website built with modern web technologies. It showcases my skills, projects, and blog posts as a Full Stack Developer and Web Designer.
 
+<img src="devfolio.gif" alt="preview">
+
+
 ## Technologies Used
 
 - **Frontend Framework**: [Next.js](https://nextjs.org/) (React)
